@@ -1,0 +1,44 @@
+main {
+  font-size: 0;
+}
+
+.container {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+.box {
+  border: 1px solid black;
+  display: inline-flex;
+}
+
+.top-row {
+  width: 50%;
+  height: 200px;
+}
+
+.bottom-row {
+  width: 33.33%;
+  height: 300px;
+}
+
+  .five {
+    background: orange;
+  }
+
+  .four {
+    background: black;
+  }
+
+  .three {
+    background: gray;
+  }
+
+  .two {
+    background: blue;
+  }
+
+  .one {
+    background: green;
